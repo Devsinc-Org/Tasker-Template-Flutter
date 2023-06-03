@@ -1,0 +1,19 @@
+name: Tasker-Template-Flutter
+id: 'ari:cloud:compass:b902fc91-f602-4d38-9ff0-26239b7902a0:component/42b44239-8145-48db-8bef-ec0880b96787/868dde43-21fa-4ee5-9688-860a91725ed2'
+description: 'An open source task manager (todo list) app, developed using Dart language and Flutter framework.'
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:teams::team/bd0a594b-2fb9-4ef6-a09a-da4871ee4c75'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/Devsinc-Org/Tasker-Template-Flutter'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
